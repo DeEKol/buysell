@@ -32,7 +32,7 @@ public class ProductEntity {
 	private ProductTypeEntity productTypeEntity;
 	
 	private String name;
-	private String descriprion;
+	private String description;
 	
 	private LocalDate dateBuy;
 	private LocalDate dateSold;
